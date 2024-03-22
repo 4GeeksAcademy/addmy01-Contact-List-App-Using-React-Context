@@ -1,0 +1,15 @@
+
+li {
+    list-style: none;
+    margin-left: 0%;
+}
+
+.contact-info {
+    margin-left: 0.5rem; /* Adjust the space as needed */
+}
+
+.detailInfo {
+    margin-left: 0 !important;
+}
+
+
